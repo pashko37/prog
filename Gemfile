@@ -31,6 +31,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'mini_magick', '~> 4.8'
 gem 'webpacker'
 gem 'react-rails'
+
+gem 'bootstrap', '~> 4.2.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
